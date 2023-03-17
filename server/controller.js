@@ -207,6 +207,7 @@ module.exports = {
             ('Syria'),
             ('Tajikistan'),
             ('Tanzania'),
+            ('Taiwan'),
             ('Thailand'),
             ('Timor-Leste'),
             ('Togo'),
